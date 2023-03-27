@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="analyze_later"><u>Analyze Later</u></string>
+
+    <string name="onboarding_1_title">Filming tips</string>
+    <string name="onboarding_1_text_1">\u25CF Only use an iron (3 - PW)</string>
+    <string name="onboarding_1_text_2">\u25CF Wear a cap, if available</string>
+    <string name="onboarding_1_text_3">\u25CF Make sure there is only one golf ball in the frame</string>
+
+    <string name="onboarding_2_title">Position your device</string>
+    <string name="onboarding_2_text_1">Set it up about one metre off the ground - around hip height. A tripod or attachment to your golf bag works well, or ask a friend to film you.</string>
+
+    <string name="onboarding_3_title">Where to stand</string>
+    <string name="onboarding_3_text_1">You\'ll be side on to your devices\'s camera, about four meters (or four paces) away. Make sure you have enough space to swing.</string>
+
+    <string name="onboarding_4_title">Place your golf ball</string>
+    <string name="onboarding_4_text_1">Take four strides from your camera (roughly four club lengths) and place the ball. Then come back to your device.</string>
+
+    <string name="onboarding_5_title">Fine tune the camera</string>
+    <string name="onboarding_5_text_1">Adjust the alignment so that the ball is inside the box, and your device is level (using the guide lines for alignment). The record button will only work when the device is level.</string>
+
+    <string name="onboarding_6_title">You\'re ready to go</string>
+    <string name="onboarding_6_text_1">You\'ll receive a countdown so you can set up before recording begins. You can select the length of the countdown (3 - 25 seconds) on the right of this screen.</string>
+
+</resources>
