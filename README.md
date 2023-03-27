@@ -9,6 +9,23 @@ npm install ucoachu-plugin
 npx cap sync
 ```
 
+### Android
+  In the project's manifest file, please add two activities.
+
+  ```bash
+    <activity
+        android:name="com.ucoachu.capacitor.activities.CameraActivity"
+        android:exported="true">
+
+    </activity>
+
+    <activity
+        android:name="com.ucoachu.capacitor.activities.PlayerActivity"
+        android:exported="true">
+
+    </activity>
+  ```
+
 ## API
 
 <docgen-index>
